@@ -5,6 +5,7 @@ https://en.wikipedia.org/wiki/Mastermind_(board_game)
 
 Contributors :
   [Nithish Bolleddula](https://github.com/nithish08)
+  
   [Shreejaya Bharathan](https://github.com/ShreejayaB)
 
 
