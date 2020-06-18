@@ -1,9 +1,3 @@
----
-noteId: "98f839c0b18611ea817461cc891893b5"
-tags: []
-
----
-
 # Can we make an RL agent play Mastermind?
 
 Mastermind is a popular code-breaking boardgame for two players which resembles Cows and Bulls. 
