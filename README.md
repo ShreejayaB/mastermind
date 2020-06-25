@@ -4,11 +4,13 @@
 
 ![mastermind](images/mastermind.png?raw=true "mastermind")
 
-Overall Summary:
+### Overall Summary:
 
-Using Reinforcement learning to train an agent to play the mastermind game.
+Using Reinforcement learning to train an agent to play the mastermind game. We implemented two algorithms
+1. [Q-learning](Q-learning.ipynb)
+1. [Policy Gradient method](Policy-gradient.ipynb)
 
-			
+### Components of Reinforcement Learning
 - Environment : Mastermind game board	
 - Agent : Plays a move guessing the pattern	
 - Example state : State consits of all the guesses taken by the agent and feedbacks obtained from environment previously.
@@ -17,10 +19,12 @@ Using Reinforcement learning to train an agent to play the mastermind game.
 We have tried using Q-learning and policy gradient algortihms to make the agent play the game efficiently. 
 
 
+
 Links to relevant sections:
-- Q Learning 
-- Training notebook 
-- Policy Gradient approach
+- [Environment for Q-learning](environment.py) 
+- [Q-learning agent](agent.py)
+- [Traing Q-learning agent](Q-learning.ipynb)
+- [Policy Gradient approach](Policy-gradient.ipynb)
 
 
 Contributors :
