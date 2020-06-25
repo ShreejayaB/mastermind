@@ -6,13 +6,13 @@
 
 Overall Summary:
 
-We have framed the mastermind game as a reinforcement learning problem. 
+Using Reinforcement learning to train an agent to play the mastermind game.
 
 			
 - Environment : Mastermind game board	
 - Agent : Plays a move guessing the pattern	
-- Example state : Any combination of 4 colours as a guess	
-- Example reward : (Number of colors guessed correctly in right position, Number of colors guessed but in wrong position) 
+- Example state : State consits of all the guesses taken by the agent and feedbacks obtained from environment previously.
+- Example reward : Tuple of (Number of colors guessed correctly in right position, Number of colors guessed but in wrong position) 
 
 We have tried using Q-learning and policy gradient algortihms to make the agent play the game efficiently. 
 
