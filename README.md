@@ -23,7 +23,7 @@ We have tried using Q-learning and policy gradient algortihms to make the agent 
 Links to relevant sections:
 - [Environment for Q-learning](environment.py) 
 - [Q-learning agent](agent.py)
-- [Traing Q-learning agent](Q-learning.ipynb)
+- [Training Q-learning agent](Q-learning.ipynb)
 - [Policy Gradient approach](Policy-gradient.ipynb)
 
 
