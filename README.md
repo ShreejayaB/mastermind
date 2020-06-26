@@ -4,7 +4,13 @@
 
 ![mastermind](images/mastermind.png?raw=true "mastermind")
 
-### Overall Summary:
+Contributors :
+
+  - [Nithish Bolleddula](https://github.com/nithish08)
+  
+  - [Shreejaya Bharathan](https://github.com/ShreejayaB)
+
+### Project Summary:
 
 Using Reinforcement learning to train an agent to play the mastermind game. We implemented two algorithms
 1. [Q-learning](Q-learning.ipynb)
@@ -25,16 +31,11 @@ Links to relevant sections:
 - [Q-learning agent](agent.py)
 - [Training Q-learning agent](Q-learning.ipynb)
 - [Policy Gradient approach](Policy-gradient.ipynb)
+- [Final Presentation](Presentation.pdf)
 
 
-Contributors :
-
-  - [Nithish Bolleddula](https://github.com/nithish08)
-  
-  - [Shreejaya Bharathan](https://github.com/ShreejayaB)
-
-Here is a link to a video we made for this project
-(REPLACE WITH ACTUAL LINK!!!! format [![Alt text for your video](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](http://www.youtube.com/watch?v=VIDEO-ID))
+Here is a link to a video we made to explain this project
+[![Alt text for your video](https://img.youtube.com/vi/zjR_qvMhgB8/0.jpg)](https://youtu.be/zjR_qvMhgB8)
 
 
 References:
